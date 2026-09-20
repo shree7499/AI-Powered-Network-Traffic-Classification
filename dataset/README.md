@@ -32,3 +32,15 @@ The dataset can contain features such as:
 ## Purpose
 
 The dataset is used to preprocess network traffic information and prepare it for training and evaluating the Transformer-based traffic classification model.
+
+## Dataset Source
+
+The machine learning component of this project will use a publicly available
+network traffic dataset for model development and evaluation.
+
+Cisco Packet Tracer is used to demonstrate and visualize network traffic,
+while the public dataset provides sufficient network-flow records for
+training and testing the Transformer-based classification model.
+
+The exact dataset, source, preprocessing steps, selected features, and
+traffic labels will be documented here before model training.
